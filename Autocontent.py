@@ -5,7 +5,7 @@ import datetime
 # ===============================
 # 🔐 API KEY SETUP
 # ===============================
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="--------")
 
 # ===============================
 # 🧠 CONTENT GENERATION FUNCTION
